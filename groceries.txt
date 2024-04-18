@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ruca ruca2 ruca3 toillet paper
+=======
+ruca ruca2 ruca3
+>>>>>>> Stashed changes
